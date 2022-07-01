@@ -14,7 +14,6 @@ Brant,Gacek
 Brawley,Gach
 Breri,Gacke
 Briar,Gackle
-Brighton,Gad
 Broderick,Gadberry
 Bronson,Gadbois
 
@@ -22,4 +21,4 @@ Update all the AD related paths and OU's.
 
 Run from a client or server with the AD PowerShell modules installed
 
-Creates complex random password and outputs to a file.
+Creates complex random passwords and outputs to a file.
